@@ -2,6 +2,13 @@
 ChronoVault is a decentralized application (dApp) that enables users to manage their digital assets through a blockchain-based inheritance solution. It provides a secure way to ensure your digital legacy can be passed on to your designated beneficiaries with advanced liveness verification and heir management.
 
 
+## Sectors
+
+**ChronoVault aligns with the following blockchain sectors**:
+- **DeFi (Decentralized Finance)**: Manages digital assets (ETH) and enables inheritance through smart contracts, providing decentralized financial services for legacy planning.
+- **AI (Artificial Intelligence)**: Integrates AI via the GaiaOracle smart contract for liveness verification, using voice biometrics and riddle challenges to ensure user activity.
+- **Other**: Focuses on a niche use case of digital legacy management, combining blockchain and AI for secure inheritance and liveness checks.
+
 ## Features
 
 - **MetaMask Integration**: Seamless wallet connection for secure blockchain interactions
